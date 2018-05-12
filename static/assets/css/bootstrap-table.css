@@ -9,10 +9,7 @@ th {
 	text-align: left;
 }
 th.fullname {
-	width: 45%;
-}
-th.field {
-	width: 25%;
+	width: 60%;
 }
 .table {
 	width: 100%;
