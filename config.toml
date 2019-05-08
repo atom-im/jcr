@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "https://www.atom.im/jcr"
+baseurl = "https://jcr.atom.im"
 languageCode = "en-us"
 title = "学术期刊分区"
 
@@ -20,7 +20,7 @@ disableKinds=["404", "RSS", "sitemap"]
 
     [params.info]
         enable = true
-        info = "**链接**: [中国计算机学会推荐国际学术会议和期刊目录](https://atom.im/ccf)、[最新SCI影响因子查询及期刊投稿分析系统](http://www.letpub.com.cn/index.php?page=journalapp)"
+        info = "**链接**: [中国计算机学会推荐国际学术会议和期刊目录](https://ccf.atom.im)、[最新SCI影响因子查询及期刊投稿分析系统](http://www.letpub.com.cn/index.php?page=journalapp)"
 
     # Footer section
     [params.footer]
