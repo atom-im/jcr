@@ -110,7 +110,7 @@ disableKinds=["404", "RSS", "sitemap"]
 	[[params.ccf.list]]
 		num = "0167-739X"
 		abbr = "FUTURE GENER COMP SY"
-		fullname = "Future Generation Computer Systems-The International Journal of eScience"
+		fullname = "FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE"
 		publisher = "2"
 		rank = "2"
 		type = "-"
@@ -209,7 +209,7 @@ disableKinds=["404", "RSS", "sitemap"]
 	[[params.ccf.list]]
 		num = "1553-3077"
 		abbr = "ACM T STORAGE"
-		fullname = "ACM Transactions on Storage"
+		fullname = "ACM TRANSACTIONS ON STORAGE"
 		publisher = "4"
 		rank = "4"
 		type = "A"
@@ -218,7 +218,7 @@ disableKinds=["404", "RSS", "sitemap"]
 	[[params.ccf.list]]
 		num = "2168-6750"
 		abbr = "IEEE T EMERG TOP COM"
-		fullname = "IEEE Transactions on Emerging Topics in Computing"
+		fullname = "IEEE TRANSACTIONS ON EMERGING TOPICS IN COMPUTING"
 		publisher = "2"
 		rank = "2"
 		type = "-"
